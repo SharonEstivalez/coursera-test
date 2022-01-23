@@ -1,0 +1,137 @@
+
+
+
+#header-nav {
+	background-color: #F93A7A;
+	border: 1px solid black;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-header .navbar-brand {
+		height: 80px;
+		padding: 20px;
+}
+
+.navbar-brand h1 {
+	font-family: cursive;
+	font-weight: bold;
+	color: #3ee4ec;
+	font-size: 1.8em;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+body .container {
+	box-sizing: border-box;
+	font-family: sans-serif;
+	height: 1000px;
+	width: 100%;
+	background-color: #3EE4EC;
+}
+
+div.container {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+.row .col-xs-12 {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 30px;
+}
+
+p {
+	height: 150px;
+	width: 100%;
+	padding: 15px;
+	overflow: hidden;
+	text-align: justify;
+    font-size: 18px;
+}
+
+
+.container h2 {
+	text-align: center;
+    font-family: cursive;
+    font-size: 2em;
+    font-weight: 600;
+    color: #f93a7a;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.section h3 {
+	text-align: center;
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 1.6em;
+}
+
+.section  {
+	background-color: #FAFF68;
+	padding: 0; 
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	color: black;
+	border: 1px solid black;
+	height: 200px;
+}
+
+/****button****/
+
+
+
+#nav-list {
+	margin-top: 0;
+	border: 1px solid black;
+}
+
+#nav-list a {
+	color: #FAFF68;
+	font-weight: 600;
+	font-family: cursive;
+	font-size: 1.3em;
+	text-align: center;
+	background-color: #FFACCB;
+	border: 0.5px solid black;
+}
+
+#nav-list a:hover {
+	background: #ACFFEF;
+}
+
+
+button.navbar-toggle { /**Boton presionado**/
+	border: 1px solid #FAFF68;
+}
+
+span.icon-bar {  /*Barras de boton**/
+	border: 1px solid #FAFF68;
+}
+
+button.navbar-toggle.collapsed { /**Boton sin presionar**/
+	border: 1px solid #FAFF68;
+	background-color: #3ee4ec;}
+}
+
+
+a #Chicken:link, a #Beef:link, a #Sushi:link {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+.section #Chicken, .section #Beef, .section #Sushi  {
+	text-decoration: none;
+	color: black;
+}
+
