@@ -83,6 +83,7 @@ p {
 	color: black;
 	border: 1px solid black;
 	height: 200px;
+	overflow: hidden;
 }
 
 /****button****/
